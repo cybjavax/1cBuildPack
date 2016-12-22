@@ -18,7 +18,7 @@
 
 * setup.os - качает tools и деморепозиторий. 
 
-Детали: Качает BDDEditor, Behavior, OneScript и [деморепозиторий](https://github.com/cybjavax/vanessa-bootstrap-1cBuildPackTemplate), создает файлы .json для автозапуска автотестов из командной строки.
+Детали: Качает [BDDEditor](https://github.com/silverbulleters/vanessa-bdd-editor), [Behavior](https://github.com/silverbulleters/vanessa-behavior), [OneScript](https://github.com/EvilBeaver/oscript-library) и [деморепозиторий](https://github.com/cybjavax/vanessa-bootstrap-1cBuildPackTemplate), создает файлы .json для автозапуска автотестов из командной строки.
 
 * testclone.os - запускает сборку конфигурации из репозитория, формирует отчет о сравнении, запускает тесты.
 

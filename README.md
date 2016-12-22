@@ -10,15 +10,15 @@
 
 ### Требует ###
 
-* Git
-* Allure
-* OneScript
+* [Git](https://git-scm.com/)
+* [Allure](https://github.com/allure-framework/allure1/releases)
+* [OneScript](http://oscript.io/)
 
 ### Тестовый запуск ###
 
 * setup.os - качает tools и деморепозиторий. 
 
-Детали: Качает BDDEditor, Behavior, OneScript и деморепозиторий, создает файлы .json для автозапуска автотестов из командной строки.
+Детали: Качает BDDEditor, Behavior, OneScript и [деморепозиторий](https://github.com/cybjavax/vanessa-bootstrap-1cBuildPackTemplate), создает файлы .json для автозапуска автотестов из командной строки.
 
 * testclone.os - запускает сборку конфигурации из репозитория, формирует отчет о сравнении, запускает тесты.
 

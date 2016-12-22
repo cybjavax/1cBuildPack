@@ -10,6 +10,7 @@
 
 ### Требует ###
 
+* Git
 * Allure
 * OneScript
 
